@@ -1,4 +1,4 @@
-# Monsters Commune Front End
+# Monsters Commune front-end
 
 
 ## develop
